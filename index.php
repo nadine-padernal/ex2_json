@@ -5,7 +5,7 @@
  $list = $data['Pets'];
 ?>
 
-<center><h1>5 Best Pets to have</h1>
+<center><h1>2020 Movies</h1>
 
 <table border="1px">
   <tr class="head">
